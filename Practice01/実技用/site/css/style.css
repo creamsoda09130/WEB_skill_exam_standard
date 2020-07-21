@@ -36,10 +36,10 @@ footer small {
   font-size: 100%;
 }
 #main h1 {
-  margin :0 0 20px;
+  margin : 0 0 20px;
   padding: 0 0 5px 40px;
   border-bottom: 2px solid #0b3cc1;
-  background-image: url("../images/h1_icon.png");
+  background-image: url(../images/h1_icon.png);
   background-repeat: no-repeat;
   font-size: 157%;
 }
